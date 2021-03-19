@@ -5,4 +5,6 @@ import numpy as np
 IRGB=cv2.imread('002.jpg')
 print(IRGB)
 print(IRGB.shape)
+print("modificacion en la rama main")
+print(len(IRGB))
 
